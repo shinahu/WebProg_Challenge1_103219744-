@@ -1,0 +1,96 @@
+.personal {
+background-color: #263238;
+padding-top: 10px;
+
+}
+.Personal1{
+margin-top: 30px;
+padding-top: 10px;
+
+
+}
+
+.name{
+
+    color: white;
+    padding-left: 20px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    margin: 0px;
+    padding-top: 20px;
+
+}
+
+.title{
+ color: #607D8B;
+ padding-left: 20px;
+ margin: 0px;
+ padding-top: 10px;
+ font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.Personalinfo {
+    color: #607D8B; 
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    margin: 0px;
+
+}
+.acadamia{
+ background-color: #1565C0;
+
+}
+
+.acadamia1{
+color: white;
+padding-left: 20px;
+font-size: 20px;
+padding-top: 20px;
+margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.school{
+color: white;
+font-size: 15px;
+list-style-type: circle;
+padding-left: 40px;
+
+
+}
+.school2{
+    color: white;
+    text-shadow:#607D8B ;
+    font-size: 15px;
+    padding-left: 40px;
+    margin: 0px;
+    padding-top: 0px;
+    
+}
+.color{
+    background-color: #607D8B;
+
+}
+
+.school3{
+ color: white;
+ font-size: 15px;
+ padding-left: 40px;
+ margin: 0;
+ padding-top: 10px;
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.school4 {
+padding-bottom: 20px;
+
+}
+.work {
+    background-color: #42a5f5;
+   
+   }
